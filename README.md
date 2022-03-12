@@ -1,0 +1,1 @@
+# Simples cálculo de fatorial.
